@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"BinarySearchTree"},{"p":"<Unnamed>","l":"BinaryTreeNode"},{"p":"<Unnamed>","l":"PowerArrayApp"},{"p":"<Unnamed>","l":"PowerBTSApp"},{"p":"<Unnamed>","l":"PowerUsage"}]

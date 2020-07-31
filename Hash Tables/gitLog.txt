@@ -1,0 +1,21 @@
+1: commit 271bf907ed1a46c85c732902d8a4e8d7db93b536
+2: Author: Leanne January <JNRLEA001@myuct.ac.za>
+3: Date: Thu Apr 4 20:41:34 2019 +0200
+4:
+5: 6. Fixed errors in code and edited Javadoc comments.
+6:
+7: commit 8580258ed16d3be214077455b405013006ee5d6b
+8: Author: Leanne January <JNRLEA001@myuct.ac.za>
+9: Date: Tue Apr 2 10:30:01 2019 +0200
+10:
+...
+26: Author: Leanne January <JNRLEA001@myuct.ac.za>
+27: Date: Fri Mar 29 16:12:00 2019 +0200
+28:
+29: 2. Implemented Hash Table that uses quadratic probing to deal with collisions. Edited the Makefile. Also added the PowerUsage class which will be used to store data objects.
+30:
+31: commit 5071938057b1bc7383e2f996a675657506b1e6ef
+32: Author: Leanne January <JNRLEA001@myuct.ac.za>
+33: Date: Fri Mar 29 16:01:16 2019 +0200
+34:
+35: 1. Implemented Hash Table that deals with collisions using linear probing. Made a Makefile for it.

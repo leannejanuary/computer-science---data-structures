@@ -1,0 +1,21 @@
+1: commit e2d04a79764070a972bdde664f623e1d6134d099
+2: Author: Leanne January <JNRLEA001@myuct.ac.za>
+3: Date: Wed Mar 6 11:01:51 2019 +0200
+4:
+5: final 2 - Modified make file to account for directories
+6:
+7: commit f14f1167ce3fa7720c4356552406c6fcd136ede1
+8: Author: Leanne January <JNRLEA001@myuct.ac.za>
+9: Date: Wed Mar 6 11:01:06 2019 +0200
+10:
+...
+62: Author: Leanne January <JNRLEA001@myuct.ac.za>
+63: Date: Sun Mar 3 14:55:53 2019 +0200
+64:
+65: 1.2 - Made PowerArrayApp which inserts values from cleaned_data.csv into an array of PowerUsage objects. Modified syntax errors in PowerUsage.java and updated Makfile.
+66:
+67: commit 90b4b80436b987c3f3d6dc3cd401252a1e7f3040
+68: Author: Leanne January <JNRLEA001@myuct.ac.za>
+69: Date: Sun Mar 3 10:00:41 2019 +0200
+70:
+71: 1.1 - Made a PowerUsage Object which stores date/time, power and voltage and a Makefile for it.

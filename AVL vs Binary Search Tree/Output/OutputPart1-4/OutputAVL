@@ -1,0 +1,41 @@
+AVL TREE TEST:
+(PART 1/2):
+
+
+1. 3 KNOWN DATES 
+one from top, middle and bottom of cleaned_data.csv
+
+16/12/2006/20:35:00 Power: 3.226, Voltage: 233.370
+16/12/2006/22:56:00 Power: 2.488, Voltage: 239.030
+17/12/2006/00:09:00 Power: 0.838, Voltage: 242.090
+
+
+2. 1 UNKNOWN DATE
+
+Date/time not found.
+
+
+3. NO PARAMETERS - PRINTS ALL DATE TIMES
+(first 10)
+17/12/2006/01:43:00 Power: 2.664, Voltage: 243.310
+17/12/2006/01:42:00 Power: 3.800, Voltage: 241.780
+17/12/2006/01:41:00 Power: 4.500, Voltage: 240.420
+17/12/2006/01:40:00 Power: 3.214, Voltage: 241.920
+17/12/2006/01:39:00 Power: 1.670, Voltage: 242.210
+17/12/2006/01:38:00 Power: 3.680, Voltage: 239.550
+17/12/2006/01:37:00 Power: 3.944, Voltage: 239.790
+17/12/2006/01:36:00 Power: 3.746, Voltage: 240.360
+17/12/2006/01:35:00 Power: 3.954, Voltage: 239.840
+17/12/2006/01:34:00 Power: 2.358, Voltage: 241.540
+
+(last 10)
+16/12/2006/17:33:00 Power: 3.662, Voltage: 233.860
+16/12/2006/17:32:00 Power: 3.668, Voltage: 233.990
+16/12/2006/17:31:00 Power: 3.700, Voltage: 235.220
+16/12/2006/17:30:00 Power: 3.702, Voltage: 235.090
+16/12/2006/17:29:00 Power: 3.520, Voltage: 235.020
+16/12/2006/17:28:00 Power: 3.666, Voltage: 235.680
+16/12/2006/17:27:00 Power: 5.388, Voltage: 233.740
+16/12/2006/17:26:00 Power: 5.374, Voltage: 233.290
+16/12/2006/17:25:00 Power: 5.360, Voltage: 233.630
+16/12/2006/17:24:00 Power: 4.216, Voltage: 234.840
